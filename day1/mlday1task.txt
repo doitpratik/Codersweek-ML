@@ -1,0 +1,20 @@
+MACHINE LEARNING:
+    Machine Learning is used to make the machines smarter instead of application
+Basically ML is a subset of Artificial Intelligence in which their prime focus is to make
+Application smarter.
+     Machine Learning is categorize into 3 different parts :
+1)Supervised Leaning
+2)Unsupervised learning
+3)Reinforcement learning
+
+In supervised learning all the basic data has been feeded in the machine 
+Based on that analysis the machine makes the decision and work on that.
+For eg: detection between normal email and spam email
+In unsupervised learning there is no data feeded prior it works on some 
+Unknown pattern and makes the decision.
+For eg: seperating the group of people with the same qualification, etc
+In reinforment learning the machine works on the observers reaction means 
+Like a small kid if he/she has told to put the soft toys and hard toy to a different boxes
+If he/she does the wrong by seeing the reaction of parents they will learn the right
+Thing just like that by giving the reward an punishment through the program 
+It can learn the thing by observing or doing the things practically
